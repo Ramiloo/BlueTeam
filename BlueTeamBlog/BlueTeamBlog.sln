@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueTeamBlog", "BlueTeamBlog.csproj", "{E399677B-1D74-435A-8AD0-47A1F9DD8D0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E399677B-1D74-435A-8AD0-47A1F9DD8D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E399677B-1D74-435A-8AD0-47A1F9DD8D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E399677B-1D74-435A-8AD0-47A1F9DD8D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E399677B-1D74-435A-8AD0-47A1F9DD8D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FF423C5-E9D1-4962-B591-3676C7A772E5}
+	EndGlobalSection
+EndGlobal
